@@ -1,8 +1,4 @@
-# 🌱 Git & GitHub Beginner Exercises – SummerSchool
-
-> Repository: `SummerSchool`  
-> Estimated Total Time: ~2–3 hours  
-> Level: Beginner
+# 🌱 GitHub Beginner Exercises 
 
 ---
 
