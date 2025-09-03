@@ -1,0 +1,28 @@
+PS C:\Users\makst\OneDrive\Documents\GitHub\SummerSchool> git log
+commit 89c89d30f4ef04fac39e453276102e7f97ebfaaf (HEAD -> feature/update-hobbies, origin/feature/update-hobbies)
+Merge: 74b5e65 85eed2a
+Author: MaksTomsic <maks.tomsic@gmail.com>
+Date:   Wed Sep 3 10:00:51 2025 +0200
+
+    Merge branch 'main' into feature/update-hobbies
+
+commit 85eed2a6278054ff08f14b67a3b365776edc8723 (origin/main, origin/HEAD, main)
+Author: MaksTomsic <maks.tomsic@gmail.com>
+Date:   Wed Sep 3 09:58:28 2025 +0200
+
+    exercise 9
+
+commit 74b5e6547750d3c3b5735f93566ccdb4b2974f50
+Author: MaksTomsic <maks.tomsic@gmail.com>
+Date:   Wed Sep 3 09:57:28 2025 +0200
+
+    exercise 8(sprememba hobbies)
+
+commit 8799d264ac489d0a53a65d669913a3ef865cb716
+Author: MaksTomsic <maks.tomsic@gmail.com>
+Date:   Wed Sep 3 09:56:17 2025 +0200
+
+    exercise 7
+
+commit 34e68a90bafb86544010f8c5841153c4a3d19346
+:
